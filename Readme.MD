@@ -1,7 +1,9 @@
 # Web3 Learnings
 
-## Whitelist Dapps
+## NFT Collection
 
-[Contract Address](https://goerli.etherscan.io/address/0xbcc0f2a717a94a2dbc5176caef3c1c5d8c780d8d)
+[Contract Address](https://goerli.etherscan.io/address/0xb996bbde01c5e17b4e188a1838f93bb0d9400930)
 
-[UI Deployment](https://whitelist-dapp-nu-one.vercel.app/)
+[UI Deployment](https://nft-collection-tau-red.vercel.app/)
+
+[Opensea Items](https://testnets.opensea.io/collection/crypto-devs-acennckm4d)
